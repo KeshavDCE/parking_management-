@@ -1,5 +1,4 @@
 #include<stdio.h>
-
 int noc=0,nocy=0,nob=0,count=0,amount=0;
 int menu();
 void car();
